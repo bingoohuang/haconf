@@ -1,0 +1,2 @@
+# haconf
+HAProxy conf setting
